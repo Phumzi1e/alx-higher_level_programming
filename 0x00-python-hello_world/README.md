@@ -1,1 +1,1 @@
-101-compile
+102-magic_calculation.py
