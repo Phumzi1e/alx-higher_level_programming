@@ -1,1 +1,1 @@
-103-fast_alphabet.py
+102-magic_calculation.py
