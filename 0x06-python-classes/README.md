@@ -1,1 +1,1 @@
- 5-square.py
+6-square.py
