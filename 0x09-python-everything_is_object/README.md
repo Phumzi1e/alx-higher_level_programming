@@ -1,1 +1,1 @@
- 100-magic_string.py 
+101-locked_class.py
