@@ -1,1 +1,1 @@
-9-rectangle.py
+10-square.py
